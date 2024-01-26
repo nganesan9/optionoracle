@@ -1,7 +1,7 @@
 {
-  "name": "option-oracle",
-  "version": "1.0.0",
-  "description": "\u0016Helps you make a selection to avoid decision fatigue. Just roll the dice and go with the flow",
+  "name": "optionoracle",
+  "version": "1.0.1",
+  "description": "Helps you make a selection to avoid decision fatigue. Just roll the dice and go with the flow",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

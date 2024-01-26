@@ -28,6 +28,8 @@ const randomRestaurant = restaurants[Math.floor(Math.random() * restaurants.leng
 
 const randomActivity = activities[Math.floor(Math.random() * activities.length)];
 
-const randomEvening = randomActivity + " and eat at " + randomRestaurant;
+function randomEvening () {
+    return randomActivity + " and eat at " + randomRestaurant;
+}
 
-module.exports = randomEvening;
+export default randomEvening;
