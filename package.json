@@ -1,0 +1,22 @@
+{
+  "name": "option-oracle",
+  "version": "1.0.0",
+  "description": "\u0016Helps you make a selection to avoid decision fatigue. Just roll the dice and go with the flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nganesan9/optionoracle.git"
+  },
+  "keywords": [
+    "optionoracle"
+  ],
+  "author": "ninja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nganesan9/optionoracle/issues"
+  },
+  "homepage": "https://github.com/nganesan9/optionoracle#readme"
+}
